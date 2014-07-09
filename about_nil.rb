@@ -1,4 +1,4 @@
-require File.expand_path(File.dirname(__FILE__) + '/neo')
+ require File.expand_path(File.dirname(__FILE__) + '/neo')
 
 class AboutNil < Neo::Koan
   def test_nil_is_an_object
